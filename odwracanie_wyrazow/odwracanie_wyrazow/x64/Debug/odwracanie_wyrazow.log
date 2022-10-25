@@ -1,0 +1,3 @@
+﻿  odwracanie_wyrazow.cpp
+C:\Users\MSI\Desktop\Nauka c++\odwracanie_wyrazow\odwracanie_wyrazow\odwracanie_wyrazow.cpp(11,30): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+  odwracanie_wyrazow.vcxproj -> C:\Users\MSI\Desktop\Nauka c++\odwracanie_wyrazow\x64\Debug\odwracanie_wyrazow.exe

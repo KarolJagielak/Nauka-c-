@@ -1,0 +1,4 @@
+﻿  dynamiczne_alokowanie_pamieci.cpp
+C:\Users\MSI\source\repos\dynamiczne_alokowanie_pamieci\dynamiczne_alokowanie_pamieci\dynamiczne_alokowanie_pamieci.cpp(17,30): warning C4311: "typ rzutowania": obcięcie wskaźnika z "int *" do "int"
+C:\Users\MSI\source\repos\dynamiczne_alokowanie_pamieci\dynamiczne_alokowanie_pamieci\dynamiczne_alokowanie_pamieci.cpp(17,30): warning C4302: "typ rzutowania": obcięcie z "int *" do "int"
+  dynamiczne_alokowanie_pamieci.vcxproj -> C:\Users\MSI\source\repos\dynamiczne_alokowanie_pamieci\x64\Debug\dynamiczne_alokowanie_pamieci.exe
