@@ -1,4 +1,0 @@
-﻿  zamiana_na_cale_jardy_mile.cpp
-C:\Users\MSI\Desktop\Nauka c++\zamiana_na_cale_jardy_mile\zamiana_na_cale_jardy_mile\zamiana_na_cale_jardy_mile.cpp(9,14): warning C4244: "return": konwersja z "double" do "float", możliwa utrata danych
-C:\Users\MSI\Desktop\Nauka c++\zamiana_na_cale_jardy_mile\zamiana_na_cale_jardy_mile\zamiana_na_cale_jardy_mile.cpp(35,14): warning C4244: "return": konwersja z "double" do "float", możliwa utrata danych
-  zamiana_na_cale_jardy_mile.vcxproj -> C:\Users\MSI\Desktop\Nauka c++\zamiana_na_cale_jardy_mile\x64\Debug\zamiana_na_cale_jardy_mile.exe
